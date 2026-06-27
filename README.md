@@ -1,0 +1,2 @@
+# dots-gnome
+Gnome Rice
